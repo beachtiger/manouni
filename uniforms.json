@@ -475,20 +475,50 @@
 	 "Undersheriff":6950900271,
 	 "Sheriff":6950900271
       },
-      "SWATCRUShortTop":{
-        "Cadet":6925657658,
-        "Private":6925657116,
-        "Private First Class":6925656746,
-        "Sergeant":6925656294,
-        "Lieutenant":6925655924,
-        "Captain":6925655494,
-        "Major":6925655159,
-        "Commander":6925654755,
-        "Executive Officer":16166769075,
-        "Commanding Officer":6921587234,
-    "Undersheriff":6921587234,
-    "Sheriff":6921587234
+
+	"SWATCSUShortTop":{
+        "Cadet":17258629199,
+        "Private":17258629199,
+        "Private First Class":17258630909,
+        "Sergeant":17258632678,
+        "Lieutenant":17258633931,
+        "Captain":17258635319,
+        "Major":17354424077,
+        "Commander":17354426035,
+        "Executive Officer":17354428485,
+        "Commanding Officer":17354428485,
+    	"Undersheriff":17354428485,
+    	"Sheriff":6921587234
      },
+	"SWATCSULongTop":{
+        "Cadet":16167248862,
+        "Private":16167248862,
+        "Private First Class":16167245842,
+        "Sergeant":16167234884,
+        "Lieutenant":16167230940,
+        "Captain":16167227779,
+        "Major":16166823836,
+        "Commander":16166799354,
+        "Executive Officer":16166769014,
+        "Commanding Officer":16168231459,
+    	"Undersheriff":16168231459,
+    	"Sheriff":16168231459
+     },
+	"SWATCSUBottom":{
+        "Cadet":16142260105,
+        "Private":16142260105,
+        "Private First Class":16142260105,
+        "Sergeant":16142260105,
+        "Lieutenant":16142260105,
+        "Captain":16142260105,
+        "Major":16142260105,
+        "Commander":16142260105,
+        "Executive Officer":16142260105,
+        "Commanding Officer":16142260105,
+    	"Undersheriff":16142260105,
+    	"Sheriff":16142260105
+     },
+
      "SWATCRUUnderShirtTop":{
         "Cadet":7375759008,
         "Private":7375759008,
@@ -528,10 +558,10 @@
         "Commander":6921569001,
         "Executive Officer":7375724711,
         "Commanding Officer":6921569001,
-    "Undersheriff":6921569001,
-    "Sheriff":6921569001
+    	"Undersheriff":6921569001,
+    	"Sheriff":6921569001
      },
-	   "SRULong":{
+	"SRULong":{
          "Candidate":5360338776,
          "Probationary Operative":5360338776,
          "Operative":5360346990,
